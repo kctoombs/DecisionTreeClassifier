@@ -1,0 +1,22 @@
+python3 GoodMovie.py training.txt test1.txt
+True positives =  9
+True negatives =  6
+False positives =  3
+False negatives =  2
+Error rate =  0.25
+
+
+python3 GoodMovie.py training.txt test2.txt
+True positives =  10
+True negatives =  3
+False positives =  3
+False negatives =  4
+Error rate =  0.35
+
+
+python3 GoodMovie.py training.txt test3.txt
+True positives =  10
+True negatives =  4
+False positives =  2
+False negatives =  4
+Error rate =  0.3
